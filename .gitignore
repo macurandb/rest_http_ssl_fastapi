@@ -50,3 +50,4 @@ coverage.xml
 # Sphinx documentation
 docs/build/
 /make.bat
+/certs/*
